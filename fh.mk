@@ -7,7 +7,6 @@ $(call inherit-product, vendor/fh/config/common_full_phone.mk)
 
 # Inherit device configuration
 $(call inherit-product, device/google/marlin/aosp_sailfish.mk)
-$(call inherit-product, vendor/nepo/my-apps.mk)
 
 # Disable FH Prebuilts
 DISABLE_CNM := true
