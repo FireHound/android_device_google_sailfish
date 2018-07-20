@@ -1,6 +1,6 @@
 [
   {
-    "repository": "android_device_google_marlin",
+    "repository": "FireHound/android_device_google_marlin",
     "target_path": "device/google/marlin",
     "branch" :  "o8.1"
   }
